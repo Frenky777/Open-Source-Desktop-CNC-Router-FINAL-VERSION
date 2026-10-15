@@ -17,7 +17,7 @@ axes:
     max_travel_mm: 350
     soft_limits: true
     homing:
-      cycle: 1
+      cycle: 2
       positive_direction: false
       mpos_mm: 0
       feed_mm_per_min: 100
@@ -41,7 +41,7 @@ axes:
     max_travel_mm: 370
     soft_limits: true
     homing:
-      cycle: 1
+      cycle: 3
       positive_direction: false
       mpos_mm: 0
       feed_mm_per_min: 100
@@ -65,7 +65,7 @@ axes:
     max_travel_mm: 52
     soft_limits: true
     homing:
-      cycle: 0
+      cycle: 1
       positive_direction: true
       mpos_mm: 0
       feed_mm_per_min: 100
