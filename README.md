@@ -1,4 +1,6 @@
+
 ## ⚙️ Firmware & Configuration Setup
+https://github.com/user-attachments/assets/197b1b6d-5a63-4afc-9b6e-b41c0982b43c
 
 This machine runs on **FluidNC** firmware. Follow the steps below to flash the firmware to your ESP32 board and upload the configuration file.
 
